@@ -1,6 +1,5 @@
 proxies:
-
-- name: king
+  - name: king
     type: vless
     server: odqwd.foot8all.ir
     port: 50567
