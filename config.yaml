@@ -1,6 +1,4 @@
-cat > config.yaml << 'EOF'
-proxies:
-  - name: king
+- name: king
     type: vless
     server: odqwd.foot8all.ir
     port: 50567
@@ -67,4 +65,3 @@ proxies:
       public-key: D4hKOdrSTKmI0HIYFf1-Ggy0ADaB39k7AQAZmeK9qCM
       short-id: "70"
     skip-cert-verify: false
-EOF
