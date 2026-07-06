@@ -1,3 +1,4 @@
+
 - name: king
     type: vless
     server: odqwd.foot8all.ir
@@ -45,10 +46,8 @@
       short-id: "33"
     xhttp-opts:
       mode: auto
+      host: play.google.com
       path: /
-      extra:
-        mode: auto
-        xPaddingBytes: "100-1000"
     skip-cert-verify: false
 
   - name: gogle
